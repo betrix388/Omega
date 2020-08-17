@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyB11alk2BHUaMhteg9B8hT1twbxnNVBiyY",
-  authDomain: "hacking-3c6b2.firebaseapp.com",
-  databaseURL: "https://hacking-3c6b2.firebaseio.com",
-  projectId: "hacking-3c6b2",
-  storageBucket: "hacking-3c6b2.appspot.com",
-  messagingSenderId: "384862069857",
-  appId: "1:384862069857:web:a9785011457f793f097620",
-  measurementId: "G-JJM3KSTB5D"
+  apiKey: "AIzaSyDW6-KAmr52Sr3-_DY9dATdVRKVR028R2g",
+  authDomain: "fb-hack-88c2b.firebaseapp.com",
+  databaseURL: "https://fb-hack-88c2b.firebaseio.com",
+  projectId: "fb-hack-88c2b",
+  storageBucket: "fb-hack-88c2b.appspot.com",
+  messagingSenderId: "406421594152",
+  appId: "1:406421594152:web:46815db734255504d6951d",
+  measurementId: "G-1Y9MGWYS86"
 };
